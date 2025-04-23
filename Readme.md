@@ -17,7 +17,6 @@ Este proyecto tiene como objetivo simular un cajero automático básico utilizan
 2. Abrí la terminal en la carpeta donde está el archivo
 3. Ejecutá el siguiente comando:
 
-```bash
 javac Cajero_Automático.java
 
 ## Ejecución
