@@ -19,9 +19,12 @@ Este proyecto tiene como objetivo simular un cajero automático básico utilizan
 ```bash
 javac Cajero_Automático.java
 ```
+
 ## Ejecución
 Después de compilar, ejecutá el programa con:
+```bash
 java Cajero_Automático
+```
 `El programa creará automáticamente un archivo saldo.dat con un saldo inicial de Q1000.00, si no existe.`
 
 ## Autor
